@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sumit Panchal</h1>
-<h3 align="center">Skilled Java Backend developer and quick learner who
-possesses the ability to adapt with new environments
-quickly. Looking for a challenging role in the industry to
-utilize my skills and develop further.</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpanchal08&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpanchal08" /> </p>
+<h3 align="left">About Me</h3>
+<div style="display: flex; justify-content: space-around;" >
+ <p align="left" style="width: 50%;">Skilled Java Backend developer and quick learner who
+possesses the ability to adapt with new environments
+quickly. Looking for a challenging role in the industry to
+utilize my skills and develop further.
+ </p>
+ <img  align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</div>
 
 - 🌱 I’m currently learning **Java, Spring boot, MySQL**
 
