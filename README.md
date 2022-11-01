@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumit Panchal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Skilled Java Backend developer and quick learner who
+possesses the ability to adapt with new environments
+quickly. Looking for a challenging role in the industry to
+utilize my skills and develop further.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpanchal08&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpanchal08" /> </p>
 
