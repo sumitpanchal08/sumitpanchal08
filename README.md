@@ -38,7 +38,7 @@ utilize my skills and develop further.
 
 <h3>My Activity Graph:</h3>
   <br/>
-   <a href="https://github.com/sumitpanchal08"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumitpanchal08&custom_title=Sumit's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/sumitpanchal08"><img alt="Sumit Panchal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumitpanchal08&custom_title=Sumit's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <!--
