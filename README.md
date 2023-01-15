@@ -14,7 +14,7 @@ utilize my skills and develop further.
 
 - 🌱 I’m currently learning **Java, Spring boot, MySQL**
 
-- 👨‍💻 All of my projects are available at [sumitpanchal08.github.io](sumitpanchal08.github.io)
+- 👨‍💻 All of my projects are available at [sumitpanchal08.github.io](https://sumitpanchal08.github.io)
 
 - 💬 Ask me about **Java, JavaScript, DSA**
 
